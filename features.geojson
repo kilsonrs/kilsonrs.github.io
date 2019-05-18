@@ -23,7 +23,7 @@
     {
       "type": "Feature",
       "properties": {
-        "face": false
+        "face": true
       },
       "geometry": {
         "coordinates": [
@@ -43,7 +43,7 @@
     {
       "type": "Feature",
       "properties": {
-        "face": false
+        "face": true
       },
       "geometry": {
         "coordinates": [
@@ -543,7 +543,7 @@
     {
       "type": "Feature",
       "properties": {
-        "face": false
+        "face": true
       },
       "geometry": {
         "coordinates": [
