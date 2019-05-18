@@ -3,7 +3,7 @@
     {
       "type": "Feature",
       "properties": {
-        "face": false,
+        "face": true,
         "quadra": 6
       },
       "geometry": {
@@ -24,7 +24,7 @@
     {
       "type": "Feature",
       "properties": {
-        "face": false,
+        "face": true,
         "quadra": 2
       },
       "geometry": {
@@ -130,7 +130,7 @@
     {
       "type": "Feature",
       "properties": {
-        "face": false,
+        "face": true,
         "quadra": 7
       },
       "geometry": {
