@@ -3,7 +3,7 @@
     {
       "type": "Feature",
       "properties": {
-        "face": true,
+        "face": false,
         "quadra": 6
       },
       "geometry": {
@@ -24,7 +24,7 @@
     {
       "type": "Feature",
       "properties": {
-        "face": true,
+        "face": false,
         "quadra": 2
       },
       "geometry": {
@@ -96,7 +96,7 @@
       "type": "Feature",
       "properties": {
         "done": false,
-        "quadra": 10
+        "n": 10
       },
       "geometry": {
         "coordinates": [
@@ -130,7 +130,7 @@
     {
       "type": "Feature",
       "properties": {
-        "face": true,
+        "face": false,
         "quadra": 7
       },
       "geometry": {
@@ -198,7 +198,7 @@
       "type": "Feature",
       "properties": {
         "done": false,
-        "quadra": 4
+        "n": 4
       },
       "geometry": {
         "coordinates": [
@@ -338,7 +338,7 @@
       "type": "Feature",
       "properties": {
         "done": false,
-        "quadra": 3
+        "n": 3
       },
       "geometry": {
         "coordinates": [
@@ -440,7 +440,7 @@
       "type": "Feature",
       "properties": {
         "done": false,
-        "quadra": 5
+        "n": 5
       },
       "geometry": {
         "coordinates": [
@@ -672,7 +672,7 @@
       "type": "Feature",
       "properties": {
         "done": false,
-        "quadra": 8
+        "n": 8
       },
       "geometry": {
         "coordinates": [
@@ -790,7 +790,7 @@
       "type": "Feature",
       "properties": {
         "done": false,
-        "quadra": 7
+        "n": 7
       },
       "geometry": {
         "coordinates": [
@@ -854,7 +854,7 @@
       "type": "Feature",
       "properties": {
         "done": false,
-        "quadra": 9
+        "n": 9
       },
       "geometry": {
         "coordinates": [
@@ -981,7 +981,7 @@
       "type": "Feature",
       "properties": {
         "done": false,
-        "quadra": 6
+        "n": 6
       },
       "geometry": {
         "coordinates": [
@@ -1020,7 +1020,7 @@
       "type": "Feature",
       "properties": {
         "done": false,
-        "quadra": 1
+        "n": 1
       },
       "geometry": {
         "coordinates": [
@@ -1059,7 +1059,7 @@
       "type": "Feature",
       "properties": {
         "done": false,
-        "quadra": 2
+        "n": 2
       },
       "geometry": {
         "coordinates": [
