@@ -1019,7 +1019,7 @@
     {
       "type": "Feature",
       "properties": {
-        "done": false,
+        "done": true,
         "n": 1
       },
       "geometry": {
@@ -1058,7 +1058,7 @@
     {
       "type": "Feature",
       "properties": {
-        "done": false,
+        "done": true,
         "n": 2
       },
       "geometry": {
@@ -1097,7 +1097,7 @@
     {
       "type": "Feature",
       "properties": {
-        "face": false,
+        "face": true,
         "quadra": 1
       },
       "geometry": {
