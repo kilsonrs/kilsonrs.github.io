@@ -516,7 +516,7 @@
     {
       "type": "Feature",
       "properties": {
-        "face": true,
+        "face": false,
         "quadra": 8
       },
       "geometry": {
