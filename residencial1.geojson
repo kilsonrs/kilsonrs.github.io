@@ -1208,7 +1208,7 @@
     {
       "type": "Feature",
       "properties": {
-        "done": false,
+        "done": true,
         "n": 2
       },
       "geometry": {
