@@ -24,7 +24,8 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "number"
+        "type": "number",
+        "number": 4
       },
       "geometry": {
         "coordinates": [
@@ -246,7 +247,8 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "number"
+        "type": "number",
+        "number": 6
       },
       "geometry": {
         "coordinates": [
@@ -594,7 +596,8 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "number"
+        "type": "number",
+        "number": 10
       },
       "geometry": {
         "coordinates": [
@@ -692,7 +695,8 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "number"
+        "type": "number",
+        "number": 9
       },
       "geometry": {
         "coordinates": [
@@ -706,7 +710,8 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "number"
+        "type": "number",
+        "number": 7
       },
       "geometry": {
         "coordinates": [
@@ -987,7 +992,8 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "number"
+        "type": "number",
+        "number": 5
       },
       "geometry": {
         "coordinates": [
@@ -1022,7 +1028,8 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "number"
+        "type": "number",
+        "number": 3
       },
       "geometry": {
         "coordinates": [
@@ -1057,7 +1064,8 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "number"
+        "type": "number",
+        "number": 2
       },
       "geometry": {
         "coordinates": [
@@ -1092,7 +1100,8 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "number"
+        "type": "number",
+        "number": 8
       },
       "geometry": {
         "coordinates": [
@@ -1145,7 +1154,8 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "number"
+        "type": "number",
+        "number": 1
       },
       "geometry": {
         "coordinates": [
